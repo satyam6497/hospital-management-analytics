@@ -11,8 +11,6 @@ The Power BI solution consists of interactive views tracking key operational, cl
 ### 1. Hospital View
 *Focuses on high-level operational efficiency, revenue distribution, department workloads, and patient satisfaction.*
 
-![Hospital View](images/hospital_view.png)
-
 * **Key Performance Indicators (KPIs):** Tracks **2,506** total patients (**1,679** inpatients, **827** outpatients), **262** total staff, an average treatment cost of **$161.41**, an average ER wait time of **65.63 minutes**, and a patient-to-staff ratio of **0.10**.
 * **Occupied Bed %:** Visualizes bed capacity utilization at **62%** (**2,847** beds total).
 * **Departmental Performance:** Evaluates average ER wait times by department (highlighting outliers like OPD Outpatient and Oncology) alongside total revenue breakdowns by age group.
@@ -20,8 +18,6 @@ The Power BI solution consists of interactive views tracking key operational, cl
 
 ### 2. Patient View
 *Focuses on patient demographics, length of stay (LOS), admission statuses, and departmental inpatient distributions.*
-
-![Patient View](images/patient_view.png)
 
 * **Clinical Flow KPIs:** Monitors **1,679** admissions, **209** discharges, an average length of stay (LOS) of **1.70 days**, **82** ICU cases, and **86** recorded deaths.
 * **Demographics & Geography:** Displays gender distributions (**51.08% Male, 48.92% Female**) and geographical patient distribution maps across North America.
